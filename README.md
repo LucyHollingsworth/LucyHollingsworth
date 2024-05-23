@@ -31,6 +31,7 @@
 
 ```
 lucy_hollingsworth = {
+  availableForHire: true,
   location: "Cheltenham, UK 🇬🇧",
   seeking: "Frontend Developer Opportunities",
   interests: ["Coding", "Cooking", "Writing", "Reading"],
@@ -43,7 +44,8 @@ lucy_hollingsworth = {
   }
 }
 ```
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://miro.medium.com/v2/resize:fit:1400/0*eaKfiilhP8zMKLfV)
+
+![LOTR meme.](https://miro.medium.com/v2/resize:fit:1400/0*eaKfiilhP8zMKLfV)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
