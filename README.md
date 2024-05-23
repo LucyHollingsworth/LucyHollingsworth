@@ -1,16 +1,49 @@
-<h1 align="center">Hi 👋, I'm Lucy Hollingsworth</h1>
+<h1 align="center">Hello 🧙‍♀️, I'm Lucy Hollingsworth</h1>
 <h3 align="center">A Junior Full Stack Web Developer | Junior Frontend Developer</h3>
 
-- 🔍 I’m currently looking for **opportunities as a Frontend Developer**
+- 🔍 I’m looking for **opportunities as a Frontend Developer**
 
 - 🖥 I’m currently learning **to improve my skills on CSS, Svelte and JavaScript.**
+<br>
 
-- 👨‍💻 My bootcamp projects:
-- https://imaginanny-decd13c8a29f.herokuapp.com/
-- https://www.explorelog.me/
+  **Coding Projects**
 
-- 🎥 Fun fact **I love films, cooking and creative writing**
+  **Imaginanny 👨‍🍼**
+  ```
+  https://imaginanny-decd13c8a29f.herokuapp.com/
+  ```
+-  Collaborated as part of a development team to create a creative Airbnb clone in just one week.
+-  Focused on backend development and generating over 120 unique seed data entries to ensure a rich and diverse user experience.
+-  Utilized Ruby on Rails, PostgreSQL, and Cloudinary, along with SCSS, HTML, and JavaScript for front-end elements, and deployed the application on Heroku.
+-  Successfully developed and deployed a fully functional and innovative Airbnb clone, contributing significantly to the project's backend robustness and data richness.
 
+ <br>
+ 
+  **ExploreLog 📷**
+  ```
+  https://www.explorelog.me/
+  ```
+-  Developed a travel-based scrapbooking app to simplify documenting trips with photos, texts, and map locations.
+-  Aimed to create a user-friendly platform for travelers to record and share their memories effortlessly.
+-  Utilized Ruby on Rails, Interact.js, SweetAlert, and Cloudinary to build features like designing customizable pins, saving user changes, and creating shareable videos.
+-  Delivered a comprehensive app that allows users to design personalized travel pins from scratch or templates, enhancing the user experience and engagement.
+-  Deployed on Heroku and designed with Figma to ensure a smooth, visually appealing user interface.
+
+```
+lucy_hollingsworth = {
+  location: "Cheltenham, UK 🇬🇧",
+  seeking: "Frontend Developer Opportunities",
+  interests: ["Coding", "Cooking", "Writing", "Reading"],
+  currently_learning: ["React", "Vue.js", "Shopify"],
+  languages: ["HTML5", "CSS3", "JavaScript", "Ruby"],
+  tools: ["Bootstrap", "Figma", "Git", "Heroku", "Photoshop", "PostgreSQL", "Rails", "SQLite"],
+  connect_with_me: {
+    email: "lucyholl@me.com",
+    linkedin: "https://www.linkedin.com/in/lucy-hollingsworth-387308b8/"
+  }
+}
+```
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://miro.medium.com/v2/resize:fit:1400/0*eaKfiilhP8zMKLfV)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
