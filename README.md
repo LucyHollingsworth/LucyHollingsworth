@@ -30,15 +30,15 @@
 -  Deployed on Heroku and designed with Figma to ensure a smooth, visually appealing user interface.
 
 ```
-lucy_hollingsworth = {
+const LucyHollingsworth = {
   availableForHire: true,
   location: "Cheltenham, UK 🇬🇧",
   seeking: "Frontend Developer Opportunities",
   interests: ["Coding", "Cooking", "Writing", "Reading"],
-  currently_learning: ["React", "Vue.js", "Shopify"],
+  currentlyLearning: ["React", "Vue.js", "Shopify"],
   languages: ["HTML5", "CSS3", "JavaScript", "Ruby"],
   tools: ["Bootstrap", "Figma", "Git", "Heroku", "Photoshop", "PostgreSQL", "Rails", "SQLite"],
-  connect_with_me: {
+  connectWithMe: {
     email: "lucyholl@me.com",
     linkedin: "https://www.linkedin.com/in/lucy-hollingsworth-387308b8/"
   }
